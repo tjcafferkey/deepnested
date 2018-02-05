@@ -1,6 +1,6 @@
 {
   "name": "deepnested",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple utility function to safely get and set deeply nested object",
   "main": "lib/index.js",
   "scripts": {
