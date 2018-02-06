@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tjcafferkey/nested.git"
+    "url": "git+https://github.com/tjcafferkey/deepnested.git"
   },
   "author": "Tom Cafferkey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tjcafferkey/nested/issues"
+    "url": "https://github.com/tjcafferkey/deepnested/issues"
   },
-  "homepage": "https://github.com/tjcafferkey/nested#readme",
+  "homepage": "https://github.com/tjcafferkey/deepnested#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-es2015": "^6.24.1",
