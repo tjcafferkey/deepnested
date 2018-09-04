@@ -7,7 +7,7 @@ npm install deepnested
 # Usage
 
 ``` javascript
-var nested = require('deepnested')
+import nested from 'deepnested';
 ```
 
 Now that nested has been imported in to your project you're able to start getting and settings deeply nested object values
