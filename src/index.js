@@ -1,4 +1,4 @@
-export function nested(obj) {
+export default function nested(obj) {
 	if (obj.constructor !== Object) {
 		throw new Error('nested() first argument needs to be an Object');
 	}

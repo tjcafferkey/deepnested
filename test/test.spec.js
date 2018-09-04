@@ -1,7 +1,7 @@
 "use strict";
 const expect = require("chai").expect;
 const assert = require("chai").assert;
-const nested = require("../lib/index").nested;
+const nested = require("../lib/index").default;
 
 describe('testing nested() function to safely access deeply nested values', function()  {
 	const mockObject = {
